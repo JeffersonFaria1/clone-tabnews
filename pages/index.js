@@ -1,5 +1,6 @@
 function Home() {
-    return <h1>Frase para o Site</h1>    
+    
+     <h1>Luriane, Pérola e João</h1>    
     }
 
 export default Home;
