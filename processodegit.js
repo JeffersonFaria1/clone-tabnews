@@ -39,4 +39,3 @@
 // Git notes para adicionar notas a commits
 // Git hooks para automatizar tarefas
 // Git credential para gerenciar credenciais
-

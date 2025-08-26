@@ -1,2 +1,3 @@
 # clone-tabnews
-Projeto para programação. Implementação de um site. 
+
+Projeto para programação. Implementação de um site.
